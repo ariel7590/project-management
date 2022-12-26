@@ -1,6 +1,6 @@
 # Pine Apple Travel Agency (Website)
-> This repo includes the third sprint of software project management course.
-> url: https://pine-apple-travel-agency.herokuapp.com/
+> This repo includes the third sprint of software project management course.\
+> url: https://pineapple-travels.onrender.com/
 
 ## Table of contents
 * [General info](#general-info)
